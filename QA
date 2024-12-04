@@ -1,0 +1,101 @@
+场景-常见的设计模式*2
+场景-单点登录的原理，实现流程*6
+场景-权限认证是如何实现的*1
+场景-多点登录的原理，session 共享* 3场景-Git 使用过吗，分支冲突怎么解决*3场景-JWT令牌，优点介绍*3
+场景-海量数据处理分析问题÷。
+其他-Java 异常处理的机制？*2
+其他-如何提高系统的QPS？*2
+其他- cookie 和 session 有什么区别？*1其他 -给你10个Tomcat，判断用哪一个？*1其他-如果定时任务执行失败，如何处理？*1
+其他 -给你1个存大Key的接口QPS低，另10个接口QPS高，有什么影响？*
+其他-ToB 和 ToC 产品的区别？*1
+其他-让你12个小球里找次品，天平最少秤几次？*1
+常规-简单的自我介绍？
+常规-为什么想做Java开发？还有其他面试吗？
+常规-学校的位置？学校哪些课程？什么时候到岗？实习多久？对实习岗位有什么规划？常规-自学知识？自学途径和规划？学习Java多久了？除了Java还学过别的技术栈吗？常规-项目上线了吗？什么业务？你负责的哪一块？项目亮点？主要的难点和解决？常规-对哪个技术栈熟悉？表和索引自己设计的吗？用户表有什么字段？密码怎么存的？常规-项目中用到了多线程吗？项目中用到了设计模式吗？
+常规-介绍项目的工作流？
+常规-介绍项目的并发量？高并发如何解决？
+SSM -AOP原理及应用*
+SSM -事务原理和失效场景* 3 SSM -bean的生命周期*6 SSM - bean 的循环引用*1
+SSM -Spring 事务的传播机制*1 SSM - IOC 与 DI 实现原理*4 SSM -Spring MVC 执行流程*3 SSM -过滤器与拦截器的区别*1
+SSM - Spring Boot 自动配置源码*3 SSM -Spring、MVC、Boot 常见注解 *sSM - spring、MVC、Boot 区别联系*SSM-@Autowired 和 @Resource 区别*1
+其他- Spring容器里存的是什么？*1
+其他-哪个注解可以让工具类获取配置文件的值？*
+其他-操作数据库要引入哪些 jar 包？*
+其他 -依赖传递、依赖冲突、工程继承、工程聚合？*:
+其他-调用 mapper 接口的抽象方法操作数据库的原理？*1其他-bean注入和xml注入实现了相同的效果，底层原理是？*1其他-MyBatis 中使用 # 和 $ 有什么区别？*1
+其他 - 介绍一下 mybatis plus？*
+spring Cloud -常用框架与五大组件 *Spring Cloud -注册和发现、服务调用*spring cloud -谈谈你对 RPC 框架的理解*1 Spring cloud -负载均衡策略*1
+spring cloud -什么是 CAP 和 BASE Spring cloud -分布式事务的解决方案 *：Spring Cloud -分布式锁的三种实现 *
+MQ -消息丢失问题与解决*5 MQ-顺序消费、重复消费问题*2 MQ- RabbitMQ的优点*3
+MQ -消费模式有哪几种*1
+集合-常见集合类，区别与联系*9
+集合- ArrayList 和 LinkedList 区别*集合-CopyonwriteArrayList 底层原理 *集合-基本数据类型、长度、范围、包装类*3集合-HashMap的底层原理
+集合-HashMap的扩容机制
+集合-ConcurrentHashMap 原理*4
+集合-equals与==区别，HashMap的重写*。集合-Java 根类是什么？Object 有哪些方法？*1集合-介绍一下 JDK7、JDK8、JDK17新特性？*
+JUC-进程、线程与协程÷1
+JUC-线程的创建方式*3
+JUC - Runnable 和 Callable 区别1
+JUC-线程的生命周期，六种状态*3
+JUC-Synchronized 原理及锁升级5
+JUC -谈一谈 AQS*1
+JUC -Synchronized 和 Lock的区别*:
+JUC -并发问题的根本原因与volatile*
+JUC - synchronized 静态与普通方法的区别*1
+JUC -线程池创建及执行流程*11
+JUC -线程池的B1ockingQueue，队列阻塞 *
+JUC -线程池的拒绝策略÷1
+JUC -线程池的作用2
+JUC -ThreadLocal的原理 *6
+JUC - Java有哪些类型的锁1
+JVM -内存结构，核心组件*8
+JVM -内存溢出（栈、堆），内存泄漏*1
+JVM -堆和栈的区别》4
+JVM - string 原理，字符串常量池*1
+JVM -对象的深拷贝和浅拷贝* 1
+JVM - Java 源码编译成字节码的过程 ÷1
+JVM -介绍一下四种引用*1
+JVM-垃圾回收算法※5
+JVM -垃圾回收器，CMS 回收过程*1 JVM -G1 垃圾收集器，优点介绍*1 JVM -JVM 调优参数 *1
+JVM - JVM 调优工具*1
+JVM -内存溢出、内存泄漏的排查与定位÷1
+Redis -使用场景*5
+Redis -如何保证 Redis 和MySQL的一致性*8 
+Redis -本地缓存和 Redis 缓存的区别*1 
+Redis -常见数据类型及使用场景*2 
+Redis -常见数据类型的底层结构*5 
+Redis -时间复杂度为0(n）的命令*1 
+Redis -为什么 Redis 这么快*2 
+Redis -持久化方式 RDB 与 AOF原理 *
+Redis -过期删除策略*1
+Redis -缓存雪崩、缓存击穿、缓存穿透*4 
+Redis-布隆过滤器、位图的原理*3 
+Redis-大 key 问题与解决*1
+MySQL -MySQL 优化思路
+MySQL - MySQL 常见引擎 *
+MySQL- InnoDB和 MyISAM 区别*1
+MySQL-InnoDB 底层结构*2
+MySQL -数据在页中的排列方式*1
+MySQL -索引的数据结构*3
+MySQL-聚簇索引和非聚簇索引*4
+MySQL -索引的优化*5
+MySQL -索引的失效*2
+MySQL -事务的四个特性及原理*3 
+MySQL-事务的隔离级别及原理*7 
+MySQL -事务 MVCC 实现原理*1
+MySQL -可重复读的幻读，快照读与当前读*2
+MySQL -全局锁、表级锁、行级锁*2
+MySQL -设计一个行级锁的死锁例子*2
+MySQL - MySQL主从架构，主从复制原理*1
+其他-常用的 SQL 查询语句？*
+其他 - 如何优化 join 语句？left 和 right 区别？*1
+其他 - 数据仓库的分层？数据库的三个范式？*1
+其他 - 数据库中的主键可以换成自己表结构中的某个字段吗？*1
+其他-Mybatis 如果我想查询多个 ID，xml 应该怎么写？*1
+其他-分库分表是什么？依据是什么？*3
+其他-查询到了B+树的叶子节点，之后的查找流程是？*1
+其他-如何建立索引？索引建太多的缺点？影响读还是写效率？*1
+
+
+
+
