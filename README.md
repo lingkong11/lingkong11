@@ -61,8 +61,8 @@
 
 | Project                                  | Description                | Tech                     |
 | ---------------------------------------- | -------------------------- | ------------------------ |
-| [**resume-builder**](https://github.com/lingkong11/resume-builder) | 简历构建工具 - 支持9套模板、PDF导出、在线分享 | Java, Spring Boot, Vue3  |
-| [**tesol-academy**](https://github.com/lingkong11/tesol-academy) | 在线课程平台 - 完整的MVP功能与交付文档     | Java, Spring Boot, MySQL |
+| [**resume-builder**](https://github.com/lingkong11/resume-builder) | 简历构建工具 - 支持9套模板、PDF导出、在线分享 | Java + Spring Boot + Vue3  |
+| [**tesol-academy**](https://github.com/lingkong11/tesol-acadmy) | 在线课程平台 - 完整的MVP功能与交付文档     | Vue3 + NestJS + Prisma ORM + PostgreSQL |
 
 ---
 
