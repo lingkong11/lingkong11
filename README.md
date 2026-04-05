@@ -69,7 +69,7 @@
 ## 📫 Connect With Me
 
 <p>
-  <a href="mailto:lingkong1104@gmail.com"><img src="https://img.shields.io/badge/Email-lion%40example.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:lingkong1104@gmail.com">lingkong1104@gmail.com</a>
 </p>
 
 ---
