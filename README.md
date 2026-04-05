@@ -57,32 +57,19 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lion&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lion&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="48%" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lion&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&curr=58A6FF" alt="GitHub Streak" />
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 | Project                                  | Description                | Tech                     |
 | ---------------------------------------- | -------------------------- | ------------------------ |
-| [**resume-builder**](https://github.com/lion/resume-builder) | 简历构建工具 - 支持9套模板、PDF导出、在线分享 | Java, Spring Boot, Vue3  |
-| [**tesol-academy**](https://github.com/lion/tesol-academy) | 在线课程平台 - 完整的MVP功能与交付文档     | Java, Spring Boot, MySQL |
+| [**resume-builder**](https://github.com/lingkong11/resume-builder) | 简历构建工具 - 支持9套模板、PDF导出、在线分享 | Java, Spring Boot, Vue3  |
+| [**tesol-academy**](https://github.com/lingkong11/tesol-academy) | 在线课程平台 - 完整的MVP功能与交付文档     | Java, Spring Boot, MySQL |
 
 ---
 
 ## 📫 Connect With Me
 
 <p>
-  <a href="mailto:lion@example.com"><img src="https://img.shields.io/badge/Email-lion%40example.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:lingkong1104@gmail.com"><img src="https://img.shields.io/badge/Email-lion%40example.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
